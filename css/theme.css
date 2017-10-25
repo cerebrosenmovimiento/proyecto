@@ -45,7 +45,7 @@ p {
 }
 .h4-titles-2{
 
-	margin:0 0 5px;
+	margin:0 0 5px !important;
 	text-transform:uppercase;
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight:600;
