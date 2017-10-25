@@ -42,6 +42,20 @@ p {
 	line-height:1.5;
 }
 
+}
+.h4-titles-2{
+
+	margin:0 0 5px;
+	text-transform:uppercase;
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight:600;
+	letter-spacing:1px;
+	text-align: center;
+	color:#00bdb1;
+
+
+}
+
 
 @media(min-width:768px) {
 	p {
